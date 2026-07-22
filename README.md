@@ -1,4 +1,4 @@
- #👋 Hi there, I'm @DanIrl7!
+ # 👋 Hi there, I'm @DanIrl7!
 
 * 💻 Who I am: A self-taught fullstack developer who loves building practical web and mobile apps.
 * 🐍 What I'm doing: Diving deep into **Python** right now to level up my back-end and A.I. skills!
